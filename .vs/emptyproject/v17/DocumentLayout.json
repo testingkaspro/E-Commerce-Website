@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\c-sharp demo\\emptyproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DE802-6515-492A-94B8-E06984FFF0B2}|EmptyProject\\EmptyProject.csproj|d:\\project\\c-sharp demo\\emptyproject\\emptyproject\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DE802-6515-492A-94B8-E06984FFF0B2}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DE802-6515-492A-94B8-E06984FFF0B2}|EmptyProject\\EmptyProject.csproj|d:\\project\\c-sharp demo\\emptyproject\\emptyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DE802-6515-492A-94B8-E06984FFF0B2}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\c-sharp demo\\emptyproject\\emptyproject\\Program.cs",
+              "RelativeDocumentMoniker": "emptyproject\\Program.cs",
+              "ToolTip": "D:\\Project\\c-sharp demo\\emptyproject\\emptyproject\\Program.cs",
+              "RelativeToolTip": "emptyproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:30:47.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\Project\\c-sharp demo\\emptyproject\\emptyproject\\Controllers\\Home.cs",
+              "RelativeDocumentMoniker": "emptyproject\\Controllers\\Home.cs",
+              "ToolTip": "D:\\Project\\c-sharp demo\\emptyproject\\emptyproject\\Controllers\\Home.cs",
+              "RelativeToolTip": "emptyproject\\Controllers\\Home.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIcBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:50:04.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
